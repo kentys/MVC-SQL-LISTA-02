@@ -1,0 +1,23 @@
+footer{
+    background-color: brown;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+ul{
+    background-color: brown;
+    color: white;
+    font-weight: bold;
+    padding: 20px;
+}
+.mb{
+    margin-bottom: 451px;
+}
+.text{
+    text-align: justify;
+    padding: 130px;
+}
+a:link, a:hover, a:active, a:visited{
+    color: white;
+}
